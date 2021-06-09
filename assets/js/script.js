@@ -52,19 +52,6 @@ jQuery(function ($) {
     }
   });
 
-  // // ----- ACTION BUTTON SMOOTH SCROLL ----- //
-
-  // $('.rotect-action-btn').on('click', function (e) {
-  //   e.preventDefault();
-  //   var target = this.hash,
-  //     $target = $(target);
-  //   $('html, body').stop().animate({
-  //     'scrollTop': $target.offset().top
-  //   }, 1000, 'swing', function () {
-  //     window.location.hash = target;
-  //   });
-  // });
-
   // ----- TOP BUTTON SMOOTH SCROLL ----- //
 
   // Memeriksa apakah penampilan ada di paling atas. Jika tidak, maka munculkan tombol TOP.
