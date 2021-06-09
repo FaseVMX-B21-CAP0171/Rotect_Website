@@ -1,0 +1,60 @@
+/* ----- THEME COLOUR ----- */
+
+.rotect-action-btn {
+    color: #224c8d;
+}
+.rotect-main-navbar .rotect-main-nav li a:hover,
+.rotect-main-navbar .rotect-main-nav li a:focus,
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus,
+.rotect-main-slider .rotect-single-slider .rotect-main-slider-content .rotect-slider-optional-title,
+.rotect-developers-description ul li:before,
+.rotect-title .rotect-subtitle,
+.rotect-developers-nav .slick-list li .rotect-single-developers .rotect-single-developers-info h4,
+.rotect-footer-copyright p a:hover,
+.rotect-footer-copyright p a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus,
+.rotect-main-navbar .navbar-header .navbar-brand span {
+    color: #ffffff;
+}
+
+.rotect-action-btn::after {
+    border: 2px solid #224c8d;
+}
+
+.rotect-developers-nav .slick-dots li,
+.rotect-main-slider .slick-dots li button {
+    border: 2px solid #ffffff;
+}
+
+.rotect-action-btn:hover,
+.rotect-action-btn:focus {
+    background-color: #224c8d;
+} 
+.rotect-developers-nav .slick-list li .rotect-single-developers .rotect-single-developers-social a:hover, 
+.rotect-developers-nav .slick-list li .rotect-single-developers .rotect-single-developers-social a:focus,
+.rotect-developers-nav .slick-dots .slick-active,
+.navbar-default .navbar-toggle .icon-bar,
+.rotect-main-slider .slick-dots li.slick-active button::before {
+    background-color: #ffffff;
+}
+
+.rotect-action-btn:hover::after,
+.rotect-action-btn:focus::after {
+    border-color: #ffffff;
+}
+
+.rotect-main-slider .slick-prev:hover,
+.rotect-main-slider .slick-prev:focus,
+.rotect-main-slider .slick-next:hover,
+.rotect-main-slider .slick-next:focus {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.rotect-developers-nav .slick-list li .rotect-single-developers .rotect-single-developers-social a {
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
