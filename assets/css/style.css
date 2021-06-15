@@ -506,13 +506,14 @@ img {
     margin-bottom: 5px;
 }
   
-.rotect-developers-nav .slick-list li .rotect-single-developers .rotect-single-developers-info span p {
+.rotect-developers-nav .slick-list li .rotect-single-developers .rotect-single-developers-info span {
     color: #A0C8FF;
     font-size: 14px;
     letter-spacing: 0.5px;
 }
   
 .rotect-developers-nav .slick-list li .rotect-single-developers .rotect-single-developers-social {
+    color: #A0C8FF;
     background-color: #1b3b58;
     position: absolute;
     bottom: -100%;
